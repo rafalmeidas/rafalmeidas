@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafaelalmeidasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/linkedin.svg" alt="rafaelalmeidasilva" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/15587778/rafael-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/stack-overflow.svg" alt="https://stackoverflow.com/users/15587778/rafael-silva" height="30" width="40" /></a>
-<a href="https://codesandbox.com/rafalmeidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/codesandbox.svg" alt="rafalmeidas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafaelalmeidasilva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/linkedin.svg" alt="rafaelalmeidasilva" height="30" width="40"/></a>
+<a href="https://stackoverflow.com/users/15587778/rafael-silva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/stack-overflow.svg" alt="https://stackoverflow.com/users/15587778/rafael-silva" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rafalmeidas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/codesandbox.svg" alt="rafalmeidas" height="30" width="40" /></a>
 </p>
