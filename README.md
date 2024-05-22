@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F16529&random=false&width=700&lines=Ol%C3%A1+%F0%9F%91%8B;Eu+sou+Rafael+Silva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F16529&random=false&width=700&lines=Ol%C3%A1+%F0%9F%91%8B;Eu+sou+Rafael+Silva)](https://git.io/typing-svg)
 
 <h3 align="left">Desbravando o universo do frontend com paixão e código, transformando ideias 💡 em experiências incríveis!</h3>
 
