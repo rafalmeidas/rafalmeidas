@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F16529&random=false&width=700&lines=Ol%C3%A1+%F0%9F%91%8B;Eu+sou+Rafael+Silva)](https://git.io/typing-svg)
+
+<h1 align="left"> <img src="[https://komarev.com/ghpvc/?username=rafalmeidas&label=Profile%20views&color=0e75b6&style=flat](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F16529&random=false&width=700&lines=Ol%C3%A1+%F0%9F%91%8B;Eu+sou+Rafael+Silva)" alt="rafalmeidas" /> </h1>
 
 <h3 align="left">Desbravando o universo do frontend com paixão e código, transformando ideias 💡 em experiências incríveis!</h3>
-
-<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalmeidas&label=Profile%20views&color=0e75b6&style=flat" alt="rafalmeidas" /> </p>
 
