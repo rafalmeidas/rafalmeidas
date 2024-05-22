@@ -1,9 +1,6 @@
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F16529&random=false&width=435&lines=Ol%C3%A1+%F0%9F%91%8B;eu+sou+Rafael+Silva)](https://git.io/typing-svg)
-</h1>
-<h3 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F16529&random=false&width=435&lines=Desbravando+o+universo+do+frontend+com+paix%C3%A3o+e+c%C3%B3digo%2C;transformando+ideias+%F0%9F%92%A1+em+experi%C3%AAncias+incr%C3%ADveis!)](https://git.io/typing-svg)
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F16529&random=false&width=435&lines=Ol%C3%A1+%F0%9F%91%8B;eu+sou+Rafael+Silva)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F16529&random=false&width=435&lines=Desbravando+o+universo+do+frontend+com+paix%C3%A3o+e+c%C3%B3digo%2C;transformando+ideias+%F0%9F%92%A1+em+experi%C3%AAncias+incr%C3%ADveis!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalmeidas&label=Profile%20views&color=0e75b6&style=flat" alt="rafalmeidas" /> </p>
 
