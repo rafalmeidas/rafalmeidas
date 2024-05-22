@@ -33,4 +33,11 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/css3.svg" alt="CSS3" height="30" width="40"/></a>
 <a href="https://sass-lang.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rafalmeidas/images-profile/main/sass.svg" alt="SASS" height="30" width="40"/></a>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafalmeidas/rafalmeidas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafalmeidas/rafalmeidas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafalmeidas/rafalmeidas/output/github-contribution-grid-snake.svg">
+</picture>
+
+
     
